@@ -3,7 +3,10 @@
 PS3 **『スーパーロボット大戦OG INFINITE BATTLE』**(BLJS10248, 반프레스토, 2016)
 비공식 한국어 번역 패치입니다. 실행 환경은 **RPCS3**입니다.
 
-- 도구 소스: [GitHub 저장소](https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean)
+> ### 📦 [최신 패치 다운로드 (Releases)](https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean/releases/latest)
+> 압축을 풀고 `SRWIB_Patcher.exe` 실행 → RPCS3 폴더 지정 → 적용.
+
+- 🛠 도구 소스: [GitHub 저장소](https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean)
 
 ## 패치 범위
 

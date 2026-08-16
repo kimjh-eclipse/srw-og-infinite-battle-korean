@@ -8,4 +8,5 @@
   * [빌드 & 배포 파이프라인](pipeline.md)
 
 * **링크**
+  * [📦 패치 다운로드](https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean/releases/latest)
   * [GitHub 저장소](https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean)
