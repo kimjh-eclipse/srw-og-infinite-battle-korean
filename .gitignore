@@ -1,0 +1,34 @@
+# 게임 파생물 — 저작권상 커밋 금지
+*.sdat
+*.unedat
+*.cpk
+*.iso
+*.xdelta
+*.elf
+EBOOT.BIN
+*.pgf
+*.gtf
+*.fpk
+*.bin
+*.dds
+
+# 번역/게임 텍스트 데이터
+trans/
+extracted/
+build_stage/
+build_cache/
+*_dump.json
+translate_pool.json
+used_chars.json
+dict_*.json
+eboot_*.json
+
+# 산출물
+release/
+release_stage/
+*.exe
+*.png
+
+# 잡다
+__pycache__/
+*.pyc
